@@ -1,7 +1,7 @@
 [
 null,
-{"id":1,"list":[{"code":0,"indent":0,"parameters":[]}],"name":"","switchId":1,"trigger":0},
-{"id":2,"list":[{"code":0,"indent":0,"parameters":[]}],"name":"","switchId":1,"trigger":0},
+{"id":1,"list":[{"code":356,"indent":0,"parameters":["MC Joystick hide"]},{"code":356,"indent":0,"parameters":["MC Button 1 hide"]},{"code":356,"indent":0,"parameters":["MC Button 2 hide"]},{"code":0,"indent":0,"parameters":[]}],"name":"Hide Joystick","switchId":1,"trigger":0},
+{"id":2,"list":[{"code":356,"indent":0,"parameters":["MC Joystick show"]},{"code":356,"indent":0,"parameters":["MC Button 1 show"]},{"code":356,"indent":0,"parameters":["MC Button 2 show"]},{"code":0,"indent":0,"parameters":[]}],"name":"Show Joystick","switchId":1,"trigger":0},
 {"id":3,"list":[{"code":0,"indent":0,"parameters":[]}],"name":"","switchId":1,"trigger":0},
 {"id":4,"list":[{"code":0,"indent":0,"parameters":[]}],"name":"","switchId":1,"trigger":0}
 ]
