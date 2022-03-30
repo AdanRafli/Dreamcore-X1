@@ -1,6 +1,8 @@
 [
 null,
-{"id":1,"expanded":true,"name":"MAP001","order":1,"parentId":0,"scrollX":1081.3333333333333,"scrollY":1305.3333333333333},
-{"id":2,"expanded":false,"name":"Forest Town","order":2,"parentId":1,"scrollX":1081.3333333333333,"scrollY":1225.3333333333333},
-{"id":3,"expanded":false,"name":"MAP003","order":3,"parentId":1,"scrollX":1081.3333333333333,"scrollY":614.6666666666666}
+{"id":1,"expanded":true,"name":"MAP001","order":1,"parentId":0,"scrollX":1081,"scrollY":1305},
+{"id":2,"expanded":false,"name":"Forest Town","order":2,"parentId":1,"scrollX":1088,"scrollY":924},
+{"id":3,"expanded":false,"name":"MAP003","order":3,"parentId":1,"scrollX":1081,"scrollY":615},
+{"id":4,"expanded":false,"name":"Weapon Shop","order":4,"parentId":1,"scrollX":1092,"scrollY":614.6666666666666},
+{"id":5,"expanded":false,"name":"Armor Shop","order":5,"parentId":1,"scrollX":819,"scrollY":461}
 ]
