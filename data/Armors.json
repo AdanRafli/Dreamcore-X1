@@ -1,7 +1,7 @@
 [
 null,
-{"id":1,"atypeId":5,"description":"","etypeId":2,"traits":[{"code":22,"dataId":1,"value":0},{"code":55,"dataId":0,"value":1}],"iconIndex":128,"name":"Shield","note":"","params":[0,0,0,1,0,1,0,0],"price":20},
-{"id":2,"atypeId":6,"description":"","etypeId":2,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":129,"name":"Large Shield","note":"","params":[0,0,0,2,0,2,-1,0],"price":25},
+{"id":1,"atypeId":5,"description":"","etypeId":2,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":128,"name":"Shield","note":"","params":[0,0,0,1,0,1,0,0],"price":25},
+{"id":2,"atypeId":6,"description":"","etypeId":2,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":129,"name":"Large Shield","note":"","params":[0,0,0,2,0,2,-1,0],"price":30},
 {"id":3,"atypeId":1,"description":"","etypeId":4,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":136,"name":"General Armor","note":"","params":[0,0,0,2,0,2,0,0],"price":30},
 {"id":4,"atypeId":2,"description":"","etypeId":4,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":137,"name":"Magic Armor","note":"","params":[0,0,0,2,0,3,0,0],"price":35},
 {"id":5,"atypeId":3,"description":"","etypeId":4,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":135,"name":"Light Armor","note":"","params":[0,0,0,1,0,1,1,0],"price":35},
